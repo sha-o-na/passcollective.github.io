@@ -3194,7 +3194,7 @@
 				background-color: #ffffff;
 				color: #000000;
 				font-weight: 900;
-				font-family: "Source Sans Pro", Helvetica, sans-serif;
+				font-family: "Source Sans Pro" !important;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
