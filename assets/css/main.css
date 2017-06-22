@@ -3756,7 +3756,7 @@
 /* Footer */
 
 	#footer .copyright {
-		font-size: 0.8em;
+		/*font-size: 1em;*/
 		list-style: none;
 		padding-left: 2em;
 		padding-top: -5em;
@@ -3771,8 +3771,9 @@
 			margin-left: 1em;
 			padding-left: 1em;
 			padding-top: -5em;
-			font-size: 0.8em;
+			font-size: 0.75em;
 			color: #000000;
+			letter-spacing: 0.1em;
 		}
 
 			#footer .copyright li:first-child {
