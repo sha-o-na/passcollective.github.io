@@ -34,35 +34,15 @@ layout: default
     </ol>
 
     <em>*SDG = United Nations Sustainable Development Goals</em>
-    <ul>
-    <li>
-        SDG #01: No Poverty
-    </li>
-        <li>
-            SDG #03: Good Health
-        </li>
-        <li>
-            SDG #04: Quality Education
-        </li>
-        <li>
-            SDG #05: Gender Equality
-        </li>
-        <li>
-            SDG #06: Clean Water &amp; Sanitation
-        </li>
-        <li>
-            SDG #08: Good Jobs &amp; Economic Growth
-        </li>
-        <li>
-            SDG #10: Reduced Inequalities
-        </li>
-        <li>
-            SDG #11: Sustainable Cities &amp; Communities
-        </li>
-        <li>
-            SDG #16: Peace &amp; Justice
-        </li>
-    </ul>
+    SDG #01: No Poverty<br/>
+    SDG #03: Good Health<br/>
+    SDG #04: Quality Education<br/>
+    SDG #05: Gender Equality<br/>
+    SDG #06: Clean Water &amp; Sanitation<br/>
+    SDG #08: Good Jobs &amp; Economic Growth<br/>
+    SDG #10: Reduced Inequalities<br/>
+    SDG #11: Sustainable Cities &amp; Communities<br/>
+    SDG #16: Peace &amp; Justice<br/>
     </div>
     </div>
 </div>

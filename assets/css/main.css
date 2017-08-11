@@ -8,6 +8,13 @@
 */
 
 /* Reset */
+	.about-headline {
+		font-size: 1.3em;
+	}
+	.less-whitespace {
+		margin-bottom: -0.1em;
+		margin-top: 0em;
+	}
 	@keyframes slidy {
 	0% { left: 0%; }
 	20% { left: 0%; }

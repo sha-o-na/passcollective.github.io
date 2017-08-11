@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="inner">
-    <div class="headline">
+    <div class="about-headline">
         <p>In urban Bangalore, we are a football club of 50 children across two different communities.</p>
     </div>
     <div class="row">
