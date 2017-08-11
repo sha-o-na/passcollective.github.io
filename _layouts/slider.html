@@ -1,0 +1,12 @@
+---
+layout: default
+category: exercises
+---
+
+<div id="slider">
+    <figure>
+        {% for image in page.images %}
+          <img src="assets/images/exercise{{page.exercise}}/{{ image }}" alt="Exercise {{page.exercise}}"/>
+        {% endfor %}
+    </figure>
+</div>

@@ -8,6 +8,35 @@
 */
 
 /* Reset */
+	@keyframes slidy {
+	0% { left: 0%; }
+	20% { left: 0%; }
+	25% { left: -100%; }
+	45% { left: -100%; }
+	50% { left: -200%; }
+	70% { left: -200%; }
+	75% { left: -300%; }
+	95% { left: -300%; }
+	100% { left: -400%; }
+	}
+
+	div#slider { overflow: hidden; }
+	div#slider figure img { width: 20%; float: left; }
+	div#slider figure { 
+	  position: relative;
+	  width: 500%;
+	  margin: 0;
+	  left: 0;
+	  text-align: left;
+	  font-size: 0;
+	  animation: 30s slidy infinite; 
+	}
+
+	.tagline {
+		margin-top: -2em;
+		font-size: 0.8em;
+	}
+
 	video 
 	{
 	    width: 100%;
@@ -3654,7 +3683,7 @@
 			}
 
 			#main > * > .inner {
-				padding: 4em 0 2em 0 ;
+				padding: 4em 0 1em 0 ;
 				margin: 0 auto;
 				max-width: 65em;
 				width: calc(100% - 6em);
@@ -3861,7 +3890,8 @@
 		-webkit-pointer-events: none;
 		-ms-pointer-events: none;
 		pointer-events: none;
-		background: rgba(91, 227, 239, 0.9);
+		/*background: rgba(91, 227, 239, 0.9);*/
+		background: rgba(0, 128, 128, 0.9);
 		box-shadow: none;
 		height: 100%;
 		left: 0;
