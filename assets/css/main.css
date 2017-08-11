@@ -3898,7 +3898,7 @@
 		-ms-pointer-events: none;
 		pointer-events: none;
 		/*background: rgba(91, 227, 239, 0.9);*/
-		background: rgba(0, 128, 128, 0.9);
+		background: rgba(38, 166, 154, 0.9);
 		box-shadow: none;
 		height: 100%;
 		left: 0;
@@ -3958,7 +3958,7 @@
 						border-top: solid 1px #ffffff;
 						display: block;
 						font-size: 1em;
-						font-weight: 600;
+						font-weight: 400;
 						letter-spacing: 0.25em;
 						line-height: 4em;
 						text-decoration: none;

@@ -15,5 +15,4 @@ images:
     - E8_11.jpg
     - E8_12.jpg
     - E8_thumbnail.jpg
-
 ---
