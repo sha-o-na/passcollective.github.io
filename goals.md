@@ -6,7 +6,7 @@ layout: default
     <div class="row">
     <div class="12u 12u$(small)">
     <h2>Our Goals</h2>
-    <ol>
+    <ul>
     <li>
         Practice the right to play and spread awareness that a healthy lifestyle requires balance between studies, work and play through a designed routine (SDG #03)
     </li>
@@ -31,7 +31,7 @@ layout: default
     <li>
         Be aware of the creative process in reaching goals and applying design thinking as a life skill, whether for one’s self, home, school, community or beyond (SDG #4)
     </li>
-    </ol>
+    </ul>
 
     <em>*SDG = United Nations Sustainable Development Goals</em>
     SDG #01: No Poverty<br/>
