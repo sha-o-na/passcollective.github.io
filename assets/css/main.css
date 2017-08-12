@@ -8,6 +8,43 @@
 */
 
 /* Reset */
+	.pure-g {
+		padding: 0em;
+		margin: 0em;
+	}
+	.text {
+  /*white-space: nowrap; */
+  /*color: white;*/
+  font-size: 0.8em;
+  position: absolute;
+  /*overflow: hidden;*/
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(200,200,200,0.8);
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+}
+.container {
+  position: relative;
+  width: 100%;
+  margin: 0em;
+
+}
+
+
+.container:hover .overlay {
+  height: 50%;
+}
 	.white {
 		color: #fff;
 	}
