@@ -1,0 +1,120 @@
+#main > * > .grid {
+              padding: 4em 0 0 0 ;
+              margin: 0;
+              /*max-width: 65em;*/
+              width: 100%;
+              /*vertical-align: top;
+              line-height: 0px;*/
+          }
+
+  .pure-g {
+      padding: 0em;
+      margin: 0em;
+      /*vertical-align: top;
+      line-height: 0px;*/
+      font-size: 0px;
+  }
+  .text {
+    /*white-space: nowrap; */
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    position: absolute;
+    /*overflow: hidden;*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }
+  /*.text > strong, b {
+    color: white;
+  }*/
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.5);
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+  }
+  .container {
+    position: relative;
+    width: 100%;
+    margin: 0em;
+
+  }
+  .container:hover .overlay {
+    height: 100%;
+  }
+  .white {
+      color: #fff;
+  }
+  .goals {
+      padding-right: 1em;
+      margin-right: 1em;
+  }
+  .sdg {
+      margin-top: 5.8em;
+      font-size: 0.8em;
+      color: #111;
+  }
+  .about-headline {
+      font-size: 1.3em;
+  }
+  .less-whitespace {
+      margin-bottom: -0.1em;
+      margin-top: 0em;
+  }
+  @keyframes slidy {
+  0% { left: 0%; }
+  20% { left: 0%; }
+  25% { left: -100%; }
+  45% { left: -100%; }
+  50% { left: -200%; }
+  70% { left: -200%; }
+  75% { left: -300%; }
+  95% { left: -300%; }
+  100% { left: -400%; }
+  }
+
+  div#slider { overflow: hidden; }
+  div#slider figure img { width: 20%; float: left; }
+  div#slider figure { 
+    position: relative;
+    width: 500%;
+    margin: 0;
+    left: 0;
+    text-align: left;
+    font-size: 0;
+    animation: 30s slidy infinite; 
+  }
+
+  .tagline {
+      margin-top: -2em;
+      font-size: 0.8em;
+      margin-bottom: -1em;
+  }
+
+  video 
+  {
+      width: 100%;
+      height: auto;
+      max-height: 100%;
+      filter: sepia(0.7);
+  }
+
+  .bio {
+      font-size: 0.8em;
+      /*width: 40%;*/
+      /*float: left;*/
+      /*padding: 3em;*/
+      /*margin: 1em;*/
+  }
+
+  .headline {
+      font-size: 1.7em;
+      padding-bottom: -1em;
+  }
