@@ -19,10 +19,9 @@ description: > # this means to ignore newlines until "baseurl:"
   PASS Collective is a startup applying football as a tool for development on and off the field. 
   On field, we actively work on football excellence and life skills development as a team. 
   Off field, we apply our unity as a football team to community participatory design projects and academics. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
+include: ["_pages"]
 
 defaults:
   - scope:

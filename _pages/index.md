@@ -1,6 +1,6 @@
 ---
 layout: default
-url: index
+permalink: "/"
 ---
 
 <div>

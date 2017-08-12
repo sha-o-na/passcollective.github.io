@@ -1,13 +1,15 @@
 ---
 layout: default
+permalink: "/about/"
+title: "About PASS"
 ---
 
 <div class="inner">
     <div class="row">
-    <div class="12u 12u$(small) about-headline">
-        We nurture inclusive development and social equity through creative intelligence. PASS is a network of believers in sharing the outputs of playful learning and the process of designing meaningful goals.
+    <div class="12u 12u$(small) headline">
+        PASS is a network of believers in sharing the outputs of playful learning and the process of designing meaningful goals.
 
-        The core (The field) of PASS is our children’s skilling building program of future creative leaders shining out of poverty. We are building the support system of resources, fans and jobs around the field. The long term goal of PASS is for our children to shine in sport+creative livelihood opportunities (The stadium), where they are empathetic, skilled and find tremendous joy.
+        We nurture inclusive development and social equity through creative intelligence.
     </div>
     </div>
     <br/>
@@ -16,13 +18,13 @@ layout: default
             <h3 class="less-whitespace">The Field</h3>
             <b>Shining Stars Football Club</b>
             <p align="justify">
-                Our co-gender football club, Shining Stars FC, consists of 50 children from marginalised urban communities. On the field, we focus on football excellence and life skills development as a by-product. Off the field, we apply the our football club unity in academic study sessions, developing observation skills and participatory design projects addressing community challenges. (See exercises for more detail).
+                The skill building program of future creative leaders shining out of poverty. Our co-gender football club, Shining Stars FC, consists of 43 children from marginalised urban communities of Bangalore. On the field, we focus on football excellence and life skills development as a by-product. Off the field, we apply the our football club unity in academic study sessions, developing observation skills and participatory design projects addressing community challenges. <a href="/exercises">See exercises</a>
             </p>
         </div>
 
         <div class="6u 12u$(small) bio">
             <h3 class="less-whitespace">The Stadium</h3>
-                <b>SportsQ</b>
+                <b><a href="https://www.sportsqplus.com/" target="_blank">SportsQ</a></b>
                 <ul class="less-whitespace">
                 <li>
                 A startup holistically guiding aspiring child athletes’ through sports science and technology:
@@ -35,7 +37,7 @@ layout: default
                 From concept note to synthesis, the research framework design has been participatory with a 15+ member team. Insights from the research will guide next steps for brand development
                 </li>
                 </ul>
-                <b>Jaaga</b>
+                <b><a href="http://jaaga.in" target="_blank">Jaaga</a></b>
                 <ul class="less-whitespace">
                 <li>
                 Jaaga is our official partner for children’s online football training, design workshops and connecting to interdisciplinary team of mentors

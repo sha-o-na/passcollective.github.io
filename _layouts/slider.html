@@ -3,10 +3,12 @@ layout: default
 category: exercises
 ---
 
+<!-- <h4>Exercise {{page.exercise}} - {{page.title}}</h4> -->
 <div id="slider">
+<h4>Exercise {{page.exercise}} - {{page.title}}</h4>
     <figure>
         {% for image in page.images %}
-          <img src="assets/images/exercise{{page.exercise}}/{{ image }}" alt="Exercise {{page.exercise}}"/>
+          <img src="/assets/images/exercise{{page.exercise}}/{{ image }}" alt="Exercise {{page.exercise}}"/>
         {% endfor %}
     </figure>
 </div>
