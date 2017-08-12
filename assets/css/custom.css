@@ -134,20 +134,27 @@
   }
 
   .read-more-state ~ .read-more-trigger:before {
-    content: 'Show more';
+    content: 'Read more';
+    border-bottom: dotted 1px;
   }
 
   .read-more-state:checked ~ .read-more-trigger:before {
-    content: 'Show less';
+    content: 'Read less';
+    border-bottom: dotted 1px;
   }
 
   .read-more-trigger {
     cursor: pointer;
-    display: inline-block;
-    padding: 0 .5em;
-    color: #666;
-    font-size: .9em;
+    /*display: inline-block;*/
+    /*padding: 0 .5em;*/
+    /*color: #666;*/
+    color: #000;
+    font-weight: 300;
+    font-size: 1rem;
+    letter-spacing: 0.025em;
     line-height: 2;
-    border: 1px solid #ddd;
-    border-radius: .25em;
+    text-transform: none;
+    /*border-bottom: dotted 1px;*/
+    /*border: 1px solid #ddd;*/
+    /*border-radius: .25em;*/
   }

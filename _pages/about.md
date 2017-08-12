@@ -6,7 +6,7 @@ title: "About PASS"
 
 <div class="inner">
     <div class="row">
-    <div class="12u 12u$(small) headline">
+    <div class="12u 12u$(small) about-headline">
         PASS is a network of believers in sharing the outputs of playful learning and the process of designing meaningful goals.
 
         We nurture inclusive development and social equity through creative intelligence.
@@ -15,10 +15,10 @@ title: "About PASS"
     <br/>
     <div class="row">
         <div class="6u 12u$(small) bio">
-            <h3 class="less-whitespace">The Field</h3><br/>
+            <h3 class="less-whitespace">The Field</h3>
             <b>Shining Stars Football Club</b>
             <p align="justify">
-                Shining Stars FC is the core of PASS. The skill building program of future creative leaders shining out of poverty. Our co-gender football club, Shining Stars FC, consists of 43 children from marginalised urban communities of Bangalore. On the field, we focus on football excellence and life skills development as a by-product. Off the field, we apply the our football club unity in academic study sessions, developing observation skills and participatory design projects addressing community challenges. The long term goal of PASS is for our children to shine in sport+creative livelihood opportunities where they are empathetic, skilled and find tremendous joy. <a href="/exercises">See exercises</a>.
+                Shining Stars FC is the core of PASS. The skill building program of future creative leaders shining out of poverty. Our co-gender football club, Shining Stars FC, consists of 43 children from marginalised urban communities of Bangalore. On the field, we focus on football excellence and life skills development as a by-product. Off the field, we apply the our football club unity in academic study sessions, developing observation skills and participatory design projects addressing community challenges. The long term goal of PASS is for our children to shine in sport+creative livelihood opportunities where they are empathetic, skilled and find tremendous joy. <a href="/exercises">See exercises</a>
             </p>
         </div>
 
