@@ -23,7 +23,7 @@ title: "About PASS"
         </div>
 
         <div class="6u 12u$(small) bio">
-                <h3 class="less-whitespace">The Stadium</h3>
+                <h3 class="less-whitespace">The Stadium</h3><br/>
                 <div>
                 <input type="checkbox" class="read-more-state" id="post-1" />
                 <div class="read-more-wrap">
@@ -31,7 +31,6 @@ title: "About PASS"
                     The support system of resources, fans and jobs around The Field. Currently, SportsQ and Jaaga are part of the stadium.
                 </p>
                 <span class="read-more-target">
-                
                 <b><a href="https://www.sportsqplus.com/" target="_blank">SportsQ</a></b>
                 <p align="justify">
                     A startup holistically guiding aspiring child athletes’ through sports science and technology. We are responsible for designing primary user-centred research frameworks and secondary research frameworks to study apps in sports marketplace. Leading the young and energetic team through design research across 4 Indian cities has been a learning experience in regards to systemic communication. From concept note to synthesis, the research framework design has been participatory with a 15+ member team. Insights from the research will guide next steps for SportsQ’s brand development.

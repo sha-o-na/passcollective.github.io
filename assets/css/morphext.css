@@ -1,6 +1,7 @@
 .morphext > .animated {
-    display: inline-block;
-    font-size: 0.75em;
-    font-weight: normal;
-    letter-spacing: 0.1em;
+    /*display: inline-block;*/
+    font-size: 0.7em;
+    font-weight: lighter;
+    letter-spacing: 0.025em;
+    /*padding-top: 0.5em;*/
 }

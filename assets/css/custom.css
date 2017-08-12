@@ -1,13 +1,13 @@
 #main > * > .grid {
-              padding: 4em 0 1em 0 ;
+              padding: 4rem 0 1rem 0 ;
               margin: 0;
               width: 100%;
+              font-size: 0px;
           }
 
   .pure-g {
       padding: 0em;
       margin: 0em;
-      font-size: 0px;
   }
   .text {
     font-size: 1rem;
@@ -114,6 +114,7 @@
   }
   #header .logo {
     padding-top: 0.5em;
+    /*font-size: 1em;*/
   }
 
   .read-more-state {
@@ -145,16 +146,22 @@
 
   .read-more-trigger {
     cursor: pointer;
-    /*display: inline-block;*/
+    display: inline-block;
     /*padding: 0 .5em;*/
     /*color: #666;*/
     color: #000;
     font-weight: 300;
     font-size: 1rem;
     letter-spacing: 0.025em;
-    line-height: 2;
+    /*line-height: 2;*/
     text-transform: none;
     /*border-bottom: dotted 1px;*/
     /*border: 1px solid #ddd;*/
     /*border-radius: .25em;*/
+  }
+  .definitions {
+    padding: 1.2rem;
+    letter-spacing: 0.025em;
+    line-height: 1em;
+    font-size: 0.8em; 
   }
