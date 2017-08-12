@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: "/goals/"
-title: "PASS Goals"
 ---
 
 <div class="inner">

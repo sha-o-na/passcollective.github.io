@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: "/team/"
-title: "PASS Core Team"
 ---
 
 <div class="inner">

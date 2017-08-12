@@ -1,7 +1,6 @@
 ---
 layout: grid
 permalink: "/exercises/"
-title: "PASS Exercises"
 portfolio:
  - title: "Exercise #1"
    description: Co-Designing our Football Club
