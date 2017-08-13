@@ -35,7 +35,7 @@ permalink: "/goals/"
     </ul>
     </div>
     <div class="3u 12u$(small) sdg">
-    <em>UN Sustainable Development Goals:</em><br/>
+    <em>UN Sustainable Development <a href="http://www.un.org/sustainabledevelopment/sustainable-development-goals/">Goals</a>:</em><br/>
     SDG #01: No Poverty<br/>
     SDG #03: Good Health<br/>
     SDG #04: Quality Education<br/>
