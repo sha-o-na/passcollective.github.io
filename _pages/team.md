@@ -5,7 +5,7 @@ permalink: "/team/"
 
 <div class="inner">
     <div class="about-headline">
-        <p>In urban Bangalore, we are a football club of 50 children across two different communities.</p>
+        <p>In urban Bangalore, we are a football club of 45 children across two different communities.</p>
     </div>
     <div class="row">
         <div class="6u 12u$(small) bio">
