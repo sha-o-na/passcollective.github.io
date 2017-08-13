@@ -159,9 +159,7 @@
     /*border: 1px solid #ddd;*/
     /*border-radius: .25em;*/
   }
-  .definitions {
-    padding: 1.2rem;
-    letter-spacing: 0.025em;
-    line-height: 1em;
-    font-size: 0.8em; 
-  }
+.is-centered {
+  text-align: center;
+  padding: 1em;
+}

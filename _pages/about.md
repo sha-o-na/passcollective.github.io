@@ -5,6 +5,23 @@ permalink: "/about/"
 
 <div class="inner">
     <div class="row">
+    <div class="12u 12u$(small) about-headline is-centered">
+            <span id="js-rotating2">
+                "To go beyond"|
+                “A success in an examination”|
+                “To move past someone or something that is moving more slowly or in same direction”|
+                “A means by which a barrier may be passed or access to a place may be gained”|
+                “To go from one quality, state or form to another”|
+                “To render a decision or verdict or opinion”|
+                “To go from the control, ownership or possession of one person/group to another”|
+                “To serve as a medium of exchange”|
+                “Move or caused to move in a specified direction”|
+                “To identify oneself or be identified as something”|
+                “To keep possession of the ball between players and to advance up the field.”|
+                “When a player kicks the ball to her/his teammate”|
+                "To share with another"
+            </span>
+    </div>  
     <div class="12u 12u$(small) about-headline">
         PASS is a network of believers in sharing the outputs of playful learning and the process of designing meaningful goals.
 
