@@ -6,12 +6,14 @@ layout: default
     <div class="pure-g">
       {% for p in page.portfolio %}
         <div class="pure-u-1-2 pure-u-lg-1-4">
-            <div class="container">
-              <img src="/assets/images/thumbnails/{{ p.image }}" alt="" class="image fit">
-                  <div class="overlay">
-                    <div class="text"><b>{{ p.title }}</b>:<br/> {{ p.description }}</div>
-                  </div>
-            </div>
+            <a href="{{ p.url }}">
+              <div class="container">
+                <img src="/assets/images/thumbnails/{{ p.image }}" alt="" class="image fit">
+                    <div class="overlay">
+                      <div class="text"><b>{{ p.title }}</b>:<br/> {{ p.description }}</div>
+                    </div>
+              </div>
+            </a>
         </div>
       {% endfor %}
     </div>
