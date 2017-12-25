@@ -1,24 +1,29 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <!-- Menu -->
-    <nav id="menu">
-      <ul class="links">
-        <li><a href="/">home</a></li>
-        <li><a href="/about/">about</a></li>
-        <li><a href="/team/">team</a></li>
-        <li><a href="/exercises/">exercises</a></li>
-        <li><a href="/goals/">goals</a></li>
-        <!-- <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li> -->
-      </ul>
-      <span id="js-rotating1" class="is-small">
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+        <!-- Menu -->
+        <nav id="menu">
+            <ul class="links">
+                <li><a href="/">home</a></li>
+                <li><a href="/about/">about</a></li>
+                <li><a href="/team/">team</a></li>
+                <li><a href="/exercises/">exercises</a></li>
+                <li><a href="/goals/">goals</a></li>
+                <li>
+                    <a class="button has-no-border" href="https://www.facebook.com/PASScollective/" target="_blank ">
+                        <span class="icon "><i class="fa fa-facebook is-size-5 "></i></span>
+                    </a>&nbsp;
+                    <a class="button has-no-border" href="https://twitter.com/pass_collective/" target="_blank ">
+                        <span class="icon "><i class="fa fa-twitter is-size-5 "></i></span>
+                    </a>&nbsp;
+                    <a class="button has-no-border" href="https://www.instagram.com/pass_collective/" target="_blank ">
+                        <span class="icon "><i class="fa fa-instagram is-size-5 "></i></span>
+                    </a>
+                </li>
+            </ul>
+            <span id="js-rotating1" class="is-small">
                 "To go beyond"|
                 “A success in an examination”|
                 “To move past someone or something that is moving more slowly or in same direction”|
@@ -32,54 +37,57 @@
                 “To keep possession of the ball between players and to advance up the field.”|
                 “When a player kicks the ball to her/his teammate”|
                 "To share with another"
-        </span>
-    </nav>
-
-    <div id="main" class="alt">
-      <section id="one">
-        {{ content }}
-      </section>
-    </div>
-
-    <!-- Scripts -->
-    <script src="/assets/js/jquery.min.js"></script>
-    <script src="/assets/js/jquery.scrolly.min.js"></script>
-    <script src="/assets/js/jquery.scrollex.min.js"></script>
-    <script src="/assets/js/skel.min.js"></script>
-    <script src="/assets/js/util.js"></script>
-    <!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
-    <script src="/assets/js/main.js"></script>
-    <script src="/assets/js/morphext.min.js"></script>
-    <script>
+            </span>
+        </nav>
+        <div id="main" class="alt">
+            <section id="one">
+                {{ content }}
+            </section>
+        </div>
+        <!-- Scripts -->
+        <script type="text/javascript ">
+        (function() {
+        var css = document.createElement('link');
+        css.href = '//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+        css.rel = 'stylesheet';
+        css.type = 'text/css';
+        document.getElementsByTagName('head')[0].appendChild(css);
+        })();
+        </script>
+        <script src="/assets/js/jquery.min.js"></script>
+        <script src="/assets/js/jquery.scrolly.min.js"></script>
+        <script src="/assets/js/jquery.scrollex.min.js"></script>
+        <script src="/assets/js/skel.min.js"></script>
+        <script src="/assets/js/util.js"></script>
+        <!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
+        <script src="/assets/js/main.js"></script>
+        <script src="/assets/js/morphext.min.js"></script>
+        <script>
         $("#js-rotating1").Morphext({
-            // The [in] animation type. Refer to Animate.css for a list of available animations.
-            animation: "fadeIn",
-            // An array of phrases to rotate are created based on this separator. Change it if you wish to separate the phrases differently (e.g. So Simple | Very Doge | Much Wow | Such Cool).
-            separator: "|",
-            // The delay between the changing of each phrase in milliseconds.
-            speed: 4000,
-            complete: function () {
-                // Called after the entrance animation is executed.
-            }
+        // The [in] animation type. Refer to Animate.css for a list of available animations.
+        animation: "fadeIn",
+        // An array of phrases to rotate are created based on this separator. Change it if you wish to separate the phrases differently (e.g. So Simple | Very Doge | Much Wow | Such Cool).
+        separator: "|",
+        // The delay between the changing of each phrase in milliseconds.
+        speed: 4000,
+        complete: function () {
+        // Called after the entrance animation is executed.
+        }
         });
-    </script>
-    <script>
+        </script>
+        <script>
         $("#js-rotating2").Morphext({
-            // The [in] animation type. Refer to Animate.css for a list of available animations.
-            animation: "fadeIn",
-            // An array of phrases to rotate are created based on this separator. Change it if you wish to separate the phrases differently (e.g. So Simple | Very Doge | Much Wow | Such Cool).
-            separator: "|",
-            // The delay between the changing of each phrase in milliseconds.
-            speed: 4000,
-            complete: function () {
-                // Called after the entrance animation is executed.
-            }
+        // The [in] animation type. Refer to Animate.css for a list of available animations.
+        animation: "fadeIn",
+        // An array of phrases to rotate are created based on this separator. Change it if you wish to separate the phrases differently (e.g. So Simple | Very Doge | Much Wow | Such Cool).
+        separator: "|",
+        // The delay between the changing of each phrase in milliseconds.
+        speed: 4000,
+        complete: function () {
+        // Called after the entrance animation is executed.
+        }
         });
-    </script>
-
-    {% include footer.html %}
-    
-
-  </body>
-
+        </script>
+        {% include footer.html %}
+    </body>
 </html>
