@@ -23,9 +23,7 @@ permalink: "/about/"
             </span>
     </div>  
     <div class="12u 12u$(small) about-headline">
-        PASS is a network of believers in sharing the outputs of playful learning and the process of designing meaningful goals.
-
-        We nurture inclusive development and social equity through creative intelligence.
+        PASS Collective is a self-sustained social enterprise startup Designing Meaningful Goals Through Play with Communities, through two interconnected verticals:
     </div>
     </div>
     <br/>
@@ -34,24 +32,17 @@ permalink: "/about/"
             <h3 class="less-whitespace">The Field</h3>
             <b>Shining Stars Football Club</b>
             <p align="justify">
-                The skill building program of future creative leaders shining out of poverty and the core of PASS. Shining Stars FC, our co-gender football club, consists of 45 children from marginalised urban communities of Bangalore. On the field, we focus on football excellence and life skills development as a by-product. Off the field, we apply the our football club unity in academic study sessions, developing observation skills and participatory design projects addressing community challenges. The long term goal of PASS is for our children to shine in sport+creative livelihood opportunities where they are empathetic, skilled and find tremendous joy. <a href="/exercises">See exercises</a>
+                Our not-for-profit community skills development program building with girls and boys from marginalised urban communities in Bangalore. On the pitch, SSFC focuses on football excellence through which our children and youth actively practice teamwork, gender equality and professionalism. Off the pitch, our children lead on creatively improving their communities, one step at a time, through teamwork and participatory design methods. The long term goal of SSFC is for children and youth to shine in opportunities through our Design Studio network, where they are empathetic, skilled and happy.
+ <a href="/exercises">See exercises</a>
             </p>
         </div>
 
         <div class="6u 12u$(small) bio">
-                <h3 class="less-whitespace">The Stadium</h3>
+                <h3 class="less-whitespace">Design Studio</h3>
                 <p align="justify">
-                    The support system of resources, fans and jobs around The Field that we are further strengthening.
+                    We collaborate with value-aligned partners who utilise our design research, visual communication and service design skills. Our partners are working on initiatives in the Development, Education and Sport sectors. The profit from our Studio partnerships internally sustains Shining Stars Football Club.
                 </p>
-                <p align="justify">
-                    <b><a href="https://www.sportsqplus.com/" target="_blank">SportsQ</a></b> is a startup holistically guiding child athletes’ through sports science and technology. We are designing primary user research frameworks and secondary research frameworks to study apps in sports marketplace. The design research spans across 4 Indian cities involving young sportspersons, parents, coaches and experts. From concept note to synthesis, the design process has been participatory with a 15+ member team. Insights from the research are guiding SportsQ’s next steps in brand development.
-                </p>
-                <p align="justify">
-                    <b><a href="http://jaaga.in" target="_blank">Jaaga</a></b> is a learning space dedicated to interdisciplinary collaboration and entrepreneurship. Jaaga is our partner for children’s online football training, design workshops and an interdisciplinary team of mentors. We are leading a design project with 79 co-workers on how play can increase professional collaboration and productivity. Shaona is a user-centred design representative on the Adaptive Leadership Team.
-                </p>
-                <p align="justify">
-                <b><a href="http://goalsforgirls.org" target="_blank">Goals for Girls</a></b> is a global program using soccer to teach girls leadership skills. We are working with the internal team and key stakeholders to design the annual Goals for Girls Leadership Summit 2018 experience in India.
-                </p>
+          
         </div>
     </div>
 </div>
