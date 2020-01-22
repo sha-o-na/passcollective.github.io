@@ -31,7 +31,7 @@ permalink: "/about/"
         <div class="6u 12u$(small) bio">
             <h3 class="less-whitespace">Shining Stars Football Club</h3>
             <p align="justify">
-                Our not-for-profit community skills development program building with girls and boys from marginalised urban communities in Bangalore. On the pitch, SSFC focuses on football excellence through which our children and youth actively practice teamwork, gender equality and professionalism. Off the pitch, our children lead on creatively improving their communities, one step at a time, through teamwork and participatory design methods. The long term goal of SSFC is for children and youth to shine in opportunities through our Design Studio network, where they are empathetic, skilled and happy.
+                Our not-for-profit community skills development program building with girls and boys from marginalised urban communities in Bangalore. On the pitch, SSFC focuses on football excellence through which our children and youth actively practice teamwork, gender equality and professionalism. Off the pitch, our children lead on creatively improving their communities, one step at a time, through teamwork and participatory design. The long term goal of SSFC is for children and youth to shine in opportunities through our Design Studio network, where they are empathetic, skilled and happy.
  <a href="/exercises">See exercises</a>
             </p>
         </div>
@@ -39,7 +39,7 @@ permalink: "/about/"
         <div class="6u 12u$(small) bio">
                 <h3 class="less-whitespace">Design Studio</h3>
                 <p align="justify">
-                    We collaborate with value-aligned partners who utilise our design research, visual communication and service design skills. Our partners are working on initiatives in the Development, Education and Sport sectors. The profit from our Studio partnerships internally sustains Shining Stars Football Club.
+                    We collaborate with value-aligned partners who utilise our design research, visual communication and service design skills. Our partners are working on initiatives in the Development, Education and Sport sectors. The profit from our Studio partnerships internally sustains Shining Stars Football Club. Collaborators include: Big Idea Sports, Goals for Girls, Jaaga Labs & DNA, Karnataka State Football Association.    
                 </p>
           
         </div>
