@@ -23,7 +23,7 @@ permalink: "/about/"
             </span>
     </div>  
     <div class="12u 12u$(small) about-headline">
-        PASS Collective is a self-sustained social enterprise startup Designing Meaningful Goals Through Play with Communities, through two interconnected verticals:
+        PASS Collective is a young self-sustained social enterprise Designing Meaningful Goals Through Play with Communities, through two interconnected verticals:
     </div>
     </div>
     <br/>
@@ -39,7 +39,7 @@ permalink: "/about/"
         <div class="6u 12u$(small) bio">
                 <h3 class="less-whitespace">Design Studio</h3>
                 <p align="justify">
-                    We collaborate with value-aligned partners who utilise our design research, visual communication and service design skills. Our partners are working on initiatives in the Development, Education and Sport sectors. The profit from our Studio partnerships internally sustains Shining Stars Football Club. Collaborators include: Big Idea Sports, Goals for Girls, Jaaga Labs & DNA, Karnataka State Football Association.    
+                    We collaborate with value-aligned partners who utilise our user-centred design research, visual communication and service design skills. Our partners are working on initiatives in the Development, Education, Sport sectors. The profit from our Studio partnerships internally sustains Shining Stars Football Club. Collaborators include: Big Idea Sports, Goals for Girls, Jaaga Labs & DNA, Karnataka State Football Association.    
                 </p>
           
         </div>
