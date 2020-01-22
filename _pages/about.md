@@ -39,7 +39,7 @@ permalink: "/about/"
         <div class="6u 12u$(small) bio">
                 <h3 class="less-whitespace">Design Studio</h3>
                 <p align="justify">
-                    We collaborate with value-aligned partners who utilise our user-centred design research, visual communication and service design skills. Our partners are working on initiatives in the Development, Education, Sport sectors. The profit from our Studio partnerships internally sustains Shining Stars Football Club. Collaborators include: Big Idea Sports, Goals for Girls, Jaaga Labs & DNA, Karnataka State Football Association.    
+                    We collaborate with value-aligned partners who utilise our user-centred design research, visual communication and service design skills. Our partners are working on neat initiatives in the Development, Education, Sport sectors. The profit from our Studio partnerships internally sustains Shining Stars Football Club. Collaborators include: Big Idea Sports, Goals for Girls, Jaaga Labs & DNA, Karnataka State Football Association.    
                 </p>
           
         </div>
